@@ -1,0 +1,20 @@
+{
+    "brim_type": "no_brim",
+    "elefant_foot_compensation": "0.15",
+    "from": "User",
+    "fuzzy_skin_point_distance": "0.2",
+    "fuzzy_skin_thickness": "0.2",
+    "infill_wall_overlap": "25%",
+    "inherits": "0.20mm Standard @Sovol SV06 ACE",
+    "initial_layer_print_height": "0.15",
+    "is_custom_defined": "0",
+    "layer_height": "0.15",
+    "minimum_sparse_infill_area": "8",
+    "name": "0.15mm ACE",
+    "print_settings_id": "0.15mm ACE",
+    "skirt_distance": "1",
+    "skirt_loops": "2",
+    "sparse_infill_pattern": "adaptivecubic",
+    "top_bottom_infill_wall_overlap": "30%",
+    "version": "1.9.0.2"
+}

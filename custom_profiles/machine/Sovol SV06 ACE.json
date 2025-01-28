@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Sovol SV06 ACE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Sovol SV06 ACE",
+    "print_host": "10.10.10.230",
+    "printer_settings_id": "Sovol SV06 ACE",
+    "version": "1.9.0.2"
+}
