@@ -1,0 +1,11 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @Sovol SV06 ACE",
+    "initial_layer_print_height": "0.2",
+    "is_custom_defined": "0",
+    "name": "0.20mm SV06 ACE",
+    "print_settings_id": "0.20mm SV06 ACE",
+    "sparse_infill_pattern": "gyroid",
+    "version": "2.2.0.4"
+}

@@ -1,0 +1,10 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.08mm High Quality @Sovol SV06 ACE",
+    "is_custom_defined": "0",
+    "name": "0.08mm SV06 ACE",
+    "print_settings_id": "0.08mm SV06 ACE",
+    "sparse_infill_pattern": "gyroid",
+    "version": "2.2.0.4"
+}
